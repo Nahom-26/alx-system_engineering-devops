@@ -1,2 +1,2 @@
 #!/bin/bashu
-mv *[A-Z]* tmp/u
+mv [[:upper:]]* tmp/u
