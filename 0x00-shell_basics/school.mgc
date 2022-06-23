@@ -1,2 +1,2 @@
-0 string ALX alx data
-!:mime ALX
+#!/bin/bash
+file -C -m school.mgc
